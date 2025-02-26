@@ -14,7 +14,7 @@ const mediumTime = totalMiles / mediumSpeed;
 const mediumPrice = mediumGallonsUsed * fuelCostPerGallon;
 
 const fastMileage = 23;
-const fastSpeed = 65;
+const fastSpeed = 75;
 const fastGallonsUsed = totalMiles / fastMileage;
 const fastTime = totalMiles / fastSpeed;
 const fastPrice = fastGallonsUsed * fuelCostPerGallon;
